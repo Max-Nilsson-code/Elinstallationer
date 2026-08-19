@@ -1,0 +1,2573 @@
+{
+  "kalla": "Övningsuppgifter Montörshandbok och Faktabok.pdf",
+  "antal_avsnitt": 15,
+  "antal_fragor": 279,
+  "saknat_material": {
+    "B48": "Bilaga A saknas i PDF:en."
+  },
+  "illustrationer": {
+    "sida37-2.jpg": "Foto av spabad (fråga 203)",
+    "sida40-1.jpg": "Foto av solcellsanläggning (kapitel 15)"
+  },
+  "avsnitt": [
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 1",
+      "faktabok": "1",
+      "montorshandbok": null,
+      "sida": 1,
+      "fragor": [
+        {
+          "id": "1",
+          "nummer": "1",
+          "sida": 1,
+          "kraver_bild": true,
+          "bilder": [
+            "sida01-1.jpg",
+            "sida01-2.jpg",
+            "sida01-3.jpg",
+            "sida01-4.jpg"
+          ],
+          "text": "Vilka instrument ser du på bilderna?"
+        },
+        {
+          "id": "2",
+          "nummer": "2",
+          "sida": 1,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad ska du tänka på när du använder stegar? Vilken säkerhet gäller."
+        },
+        {
+          "id": "3",
+          "nummer": "3",
+          "sida": 1,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilken personlig utrustning (kläder mm) behöver du för att få arbeta på en större arbetsplats idag?"
+        },
+        {
+          "id": "4",
+          "nummer": "4",
+          "sida": 1,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vem kommer att utfärda ditt elcertifikat när du är klar med din utbildning?"
+        },
+        {
+          "id": "5",
+          "nummer": "5",
+          "sida": 1,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur lång tid tar det för dig att bli en fullbetald elektriker?"
+        },
+        {
+          "id": "6",
+          "nummer": "6",
+          "sida": 1,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du har fått en arbetsorder att felsöka hos en privatperson. Deras värmegolv fungerar inte och golvet är iskallt. Hur gör du din felsökning och vilka instrument behöver du?"
+        },
+        {
+          "id": "7",
+          "nummer": "7",
+          "sida": 2,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du skall göra ett 20mm hål i en tegelvägg för en kabelgenomgång. Vilken utrustning behöver du då?"
+        },
+        {
+          "id": "8",
+          "nummer": "8",
+          "sida": 2,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad använd en regelsökare för?"
+        },
+        {
+          "id": "9",
+          "nummer": "9",
+          "sida": 2,
+          "kraver_bild": true,
+          "bilder": [
+            "sida02-1.jpg",
+            "sida02-2.jpg",
+            "sida02-3.jpg",
+            "sida02-4.jpg",
+            "sida02-5.jpg",
+            "sida02-6.jpg"
+          ],
+          "text": "Vad heter verktygen nedan?"
+        },
+        {
+          "id": "10",
+          "nummer": "10",
+          "sida": 2,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka regler finns för att få köra en Saxlift? (Google fråga)"
+        },
+        {
+          "id": "11",
+          "nummer": "11",
+          "sida": 2,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "I din yrkesroll kommer du inte enbart att installera. Du kommer att ha mänga andra roller också. Ge exempel på några sådana roller"
+        },
+        {
+          "id": "12",
+          "nummer": "12",
+          "sida": 3,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Elbranschen rekommenderar att elföretagen använder branschens checklista när lärlingar nyanställs. Skriv ned vilka punkter som tas upp. Checklistan hittar du på www.ecy.com."
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 2",
+      "faktabok": "2",
+      "montorshandbok": null,
+      "sida": 3,
+      "fragor": [
+        {
+          "id": "13",
+          "nummer": "13",
+          "sida": 3,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En kund beställer ett arbete hos ett medelstort elföretag. Hur kan arbetsgången se ut?"
+        },
+        {
+          "id": "14",
+          "nummer": "14",
+          "sida": 3,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du ska skriva din första tidsedel. Vilka uppgifter vill din arbetsgivare ha?"
+        },
+        {
+          "id": "15",
+          "nummer": "15",
+          "sida": 3,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka på företaget brukar beräkna kostnaderna för ett elarbete?"
+        },
+        {
+          "id": "16",
+          "nummer": "16",
+          "sida": 3,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En kund beställer ett arbete av ett elföretag. Kostnaden är säkert det första som diskuteras. Men det kan finnas andra faktorer som också kan avgöra om elföretaget får jobbet. Vilka?"
+        },
+        {
+          "id": "17",
+          "nummer": "17",
+          "sida": 3,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Innan du åker ut till en kund, bör du planera ditt arbete. Varför?"
+        },
+        {
+          "id": "18",
+          "nummer": "18",
+          "sida": 3,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Sök i montörshandboken var du ska placera diskmaskinsuttaget i ett kök."
+        },
+        {
+          "id": "19",
+          "nummer": "19",
+          "sida": 3,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad innebär att ”elinstallationen skall utföras enligt Svensk Standard”?"
+        },
+        {
+          "id": "20",
+          "nummer": "20",
+          "sida": 4,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur översätts kabeltypen EXQJ 4x10/10 till dagens kabelmärkningssystem? Vad betyder bokstäverna?"
+        },
+        {
+          "id": "21",
+          "nummer": "21",
+          "sida": 4,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad innebär det att göra en riskanalys?"
+        },
+        {
+          "id": "22",
+          "nummer": "22",
+          "sida": 4,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka/vad bestämmer om en armatur får monteras i ett visst utrymme?"
+        },
+        {
+          "id": "23",
+          "nummer": "23",
+          "sida": 4,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Materialkännedom. Vilka två företag är störst på Svenska marknaden för tillverkning av strömbrytare och vägguttag i våra hem? (Google)"
+        },
+        {
+          "id": "24",
+          "nummer": "24",
+          "sida": 4,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka arbetsuppgifter har nedanstående personer på ett elföretag? (Google) Kalkylator? Administratör? Offertansvarig? Projektledare? Ledande montör? Projektingenjör? Projektör? Filialchef?"
+        },
+        {
+          "id": "25",
+          "nummer": "25",
+          "sida": 5,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur går du tillväga för att montera ett vägguttag på en vägg med (se nedan). Vilka verktyg och material behövs? - Dubbel gips - Betongvägg - Tegelvägg - Enkelgips"
+        },
+        {
+          "id": "26",
+          "nummer": "26",
+          "sida": 5,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad betyder ATL?"
+        },
+        {
+          "id": "27",
+          "nummer": "27",
+          "sida": 5,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är det för skillnad på en sockeldosa och en apparatdosa vid installationer av vägguttag?"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 3 + Montörshandbok kapitel 3",
+      "faktabok": "3",
+      "montorshandbok": "3",
+      "sida": 5,
+      "fragor": [
+        {
+          "id": "28",
+          "nummer": "28",
+          "sida": 5,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du skall montera en apparatdosa invid en dörrpost i ett regelverk. Det ska monteras extra breda dörrfoder. Vad måste du som elektriker tänka på så att inte apparatdosa kommer mitt i dörrfodret."
+        },
+        {
+          "id": "29",
+          "nummer": "29",
+          "sida": 5,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Varför är det viktigt att fästa rören ordentligt i regelverken?"
+        },
+        {
+          "id": "30",
+          "nummer": "30",
+          "sida": 5,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad ska du tänka på om det är 21 meter mellan centralen och vägguttaget i en infälld installation?"
+        },
+        {
+          "id": "31",
+          "nummer": "31",
+          "sida": 5,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur ska man skydda ett ledningssystem som förläggs fritt i väggen, t.ex. när kabeln dras den kortaste vägen?"
+        },
+        {
+          "id": "32",
+          "nummer": "32",
+          "sida": 5,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du har lagt en mängd rör och dosor på ett valv. Varför är det väldigt viktigt att du har najat rören ordentligt och satt fast doserna med spik?"
+        },
+        {
+          "id": "33",
+          "nummer": "33",
+          "sida": 6,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Förklara vilka fördelar och nackdelar med VP-röret, om du jämför med slang."
+        },
+        {
+          "id": "34",
+          "nummer": "34",
+          "sida": 6,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Kabeln till en spis skall vara 5st FK 2,5mm². Vilken storlek på VP rör ska du välja?"
+        },
+        {
+          "id": "35",
+          "nummer": "35",
+          "sida": 6,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Då du arbetar i ett regelverk av plåt, kan du inte spika fast dina dosor. Vilken fästmetod kan du då använda dig av?"
+        },
+        {
+          "id": "36",
+          "nummer": "36",
+          "sida": 6,
+          "kraver_bild": true,
+          "bilder": [
+            "sida06-1.jpg",
+            "sida06-2.jpg"
+          ],
+          "text": "Nedan ser du två typer av vanliga toppklämmor (Torix och Wago). a) Hur många 1,5mm² ledare får anslutas i en Torix T6 b) Hur mycket ska varje kabel skalas av för att ge en säker koppling enligt tillverkarna?"
+        },
+        {
+          "id": "37",
+          "nummer": "37",
+          "sida": 6,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Ange diametern på en, Apparatdosa………………Kopplingsdosa……………. Armaturdosa……………"
+        },
+        {
+          "id": "38",
+          "nummer": "38",
+          "sida": 6,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Ange de vanligaste diametern på VP-rör / slang, 1……………………….. 2…………………… 3………………………"
+        },
+        {
+          "id": "39",
+          "nummer": "39",
+          "sida": 6,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur kan man förhindra elektriska och magnetiska fält vid infälld installation? Elektriska fält…………………………………………………………………………………………… Magnetiska fält………………………………………………………………………………………"
+        },
+        {
+          "id": "40",
+          "nummer": "40",
+          "sida": 7,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Nämn sex verktyg / hjälpmedel som är förknippade med en infälld installation, 1………………………………… 2……………………………… 3…………………………….. 4……………………………….. 5……………………………… 6…………………………….."
+        },
+        {
+          "id": "41",
+          "nummer": "41",
+          "sida": 7,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad bör du tänka på vid rörförläggning med tanke på placering av rören och kondensrisk? Placering………………………………………………………………………………………………….. Kondens……………………………………………………………………………………………………"
+        },
+        {
+          "id": "42",
+          "nummer": "42",
+          "sida": 7,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilken beteckning har en el-ritning som visar, Kraft/belysning…………………………….. Telesystem…………………………….."
+        },
+        {
+          "id": "43",
+          "nummer": "43",
+          "sida": 7,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En central är märkt A1N5+R507, vad betyder denna märkning?"
+        },
+        {
+          "id": "44",
+          "nummer": "44",
+          "sida": 7,
+          "kraver_bild": true,
+          "bilder": [
+            "sida51-1.jpg"
+          ],
+          "text": "Se bifogad ritning. Ange antal ledare som du behöver i rören, streck är fas-tändtråd-mellantråd, streck med prick är nolla, streck med tvärstreck är skyddsjord. I högerspalten anger du mått och IP-klasser. (se bifogad ritning)"
+        },
+        {
+          "id": "45",
+          "nummer": "45",
+          "sida": 7,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Väggar i en byggnad skall antingen enklas eller dubblas, vad innebär detta och vad måste du som elektriker tänka på?"
+        },
+        {
+          "id": "46",
+          "nummer": "46",
+          "sida": 8,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En byggnad består av en grundläggning, stomme, bjälklag och tak. Beskriv några olika grundläggningar, vad menas med bjälklag och vad är en takstol? Grundläggning 1………………………… 2……………………… 3…………………………….. Bjälklag är …………………………………………………………………………………….. Takstol är ………………………………………………………………………………………."
+        },
+        {
+          "id": "47",
+          "nummer": "47",
+          "sida": 8,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad betyder de här beteckningarna på en ritning? E: A: K: BR: S:"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 4",
+      "faktabok": "4",
+      "montorshandbok": null,
+      "sida": 8,
+      "fragor": [
+        {
+          "id": "48",
+          "nummer": "48",
+          "sida": 8,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad betyder begreppet ROT?"
+        },
+        {
+          "id": "49",
+          "nummer": "49",
+          "sida": 8,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du skall bila in rör och dosor i en lättbetongvägg. Vilken personlig skyddsutrustning ska du använda då?"
+        },
+        {
+          "id": "50",
+          "nummer": "50",
+          "sida": 8,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En elinstallation finns inritad på en planritning. I vilken enhet anges alla mått?"
+        },
+        {
+          "id": "51",
+          "nummer": "51",
+          "sida": 9,
+          "punkter": [
+            "Hur många centimeter är en meter vid en skala på 1:10",
+            "Hur många centimeter är en meter vid en skala på 1:25",
+            "Hur många meter kabelstege är det",
+            "Mät upp längden på väggarna i Lunchrummet och beräkna kvadrat ytan."
+          ],
+          "kraver_bild": true,
+          "bilder": [
+            "sida51-1.jpg"
+          ],
+          "text": "Räkna om skalor samt måttsätt på den bifogade ritningen över Lunchrum."
+        },
+        {
+          "id": "52",
+          "nummer": "52",
+          "sida": 9,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En byggnads grundläggning kan utföras på olika sätt. Nämn tre olika sätt."
+        },
+        {
+          "id": "53",
+          "nummer": "53",
+          "sida": 9,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad kallas golvet och taket på fackmannamässigt språk?"
+        },
+        {
+          "id": "54",
+          "nummer": "54",
+          "sida": 9,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad innebär begreppet bärande vägg? Och vilka konsekvenser kan det få om man river ned den?"
+        },
+        {
+          "id": "55",
+          "nummer": "55",
+          "sida": 9,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är den vanligaste tjockleken på en gipsskiva?"
+        },
+        {
+          "id": "56",
+          "nummer": "56",
+          "sida": 9,
+          "punkter": [
+            "Före 70 talet?",
+            "Mellan 1970-2002?"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur kunde ledarnas färger i en elanläggning se ut:"
+        },
+        {
+          "id": "57",
+          "nummer": "57",
+          "sida": 9,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad ska man tänka på vid installationer av apparatdosor för att undvika ljudspridning?"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 5 + Montörshandbok kapitel 4 och 1",
+      "faktabok": "5",
+      "montorshandbok": "4 och 1",
+      "sida": 10,
+      "fragor": [
+        {
+          "id": "58",
+          "nummer": "58",
+          "sida": 10,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Namnge lämplig kabel i följande miljöer: Klamrad på utomhusfasad……………………….. Installation av vägguttag i sovrum………………. Nedgrävd i mark mellan tex garage och huvudbyggnad…………………. Installation i garage…………………….. Kontorsinstallation där kabeln delvis går på stege / i ränna, delvis i rör ovan undertak………………….. Förläggning i ellist / kontorskanal ……………………"
+        },
+        {
+          "id": "59",
+          "nummer": "59",
+          "sida": 10,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vid utanpåliggande installation av kabel måste du se till att risken för kallflytning elimineras. Vad skall du tänka på?"
+        },
+        {
+          "id": "60",
+          "nummer": "60",
+          "sida": 10,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad bör du tänka på vid klamring av kabel på vägg? 1………………………………………………………………………………………………………….. 2………………………………………………………………………………………………………….. 3………………………………………………………………………………………………………….."
+        },
+        {
+          "id": "61",
+          "nummer": "61",
+          "sida": 10,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vid klamring mot betong / tegel behöver du plugga. Vilken borrstorlek passar till: Gul plugg…………………. Röd plugg …………… Brun plugg…………….."
+        },
+        {
+          "id": "62",
+          "nummer": "62",
+          "sida": 11,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vid uppsättning av apparater i gips / betong / lättbetong / tegel krävs mer än bara en skruv. Namnge lämplig montageprodukt för följande typer av material. Uppsättning på gipsvägg…………………………………………………………………….. Uppsättning i betong tak……………………………………………………………………… Uppsättning i lättbetong …………………………………………………………………….. Uppsättning i tegelvägg………………………………………………………………………."
+        },
+        {
+          "id": "63",
+          "nummer": "63",
+          "sida": 11,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Varför skall tele / data kabel vara åtskilda i en egen ränna när de förläggs på kabelstege?"
+        },
+        {
+          "id": "64",
+          "nummer": "64",
+          "sida": 11,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är skillnaden mellan brandspridningsklass F2 och F4?"
+        },
+        {
+          "id": "65",
+          "nummer": "65",
+          "sida": 11,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Ett av företagen som tillverkar produkter för brandtätningar heter FireSeal. Nämn minst fyra olika brandtätningar som företaget tillverkar."
+        },
+        {
+          "id": "66",
+          "nummer": "66",
+          "sida": 11,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En av FireSeals brandtätningar har samma dimensioner som ett vanligt VP-rör. Vad heter den?"
+        },
+        {
+          "id": "67",
+          "nummer": "67",
+          "sida": 11,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad ska du tänka på när du installerar armaturer på en vajer (lina) som du har spänt upp?"
+        },
+        {
+          "id": "68",
+          "nummer": "68",
+          "sida": 11,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En kabel som kommer upp ur ett markrör måste skyddas mekaniskt. Hur högt skall detta skydd nå över marken?"
+        },
+        {
+          "id": "69",
+          "nummer": "69",
+          "sida": 11,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En brandcell i en byggnad som klassas EI60 skall stå emot / ej sprida, rök eller brand inom 60min. Hur kan man göra kabel genomföringar brandtäta?"
+        },
+        {
+          "id": "70",
+          "nummer": "70",
+          "sida": 11,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Halogenfri kabel är idag vanligast. Bokstaven K som stod för PVC har ersatts av Q. Vilka är fördelarna med halogenfri kabel?"
+        },
+        {
+          "id": "71",
+          "nummer": "71",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Beskriv skillnaden mellan följande värmekablar: Serie-resistiv…………………………………………………………………………………………… Parallell-resistiv …………………………………………………………………………………….. Självbegränsande…………………………………………………………………………………….."
+        },
+        {
+          "id": "72",
+          "nummer": "72",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Serie-resistiv värmekabel tillverkas med en effekt på 10W/m kabel. Om du skall lägga ett värmegolv för uppvärmning av rummet samt comfort bör du installera ca 100W/m2. Hur lång kabel skall du köpa till ett 8m2 stort badrum? ………………………. Hur stort c/c avstånd mellan slingorna blir det……………………… Innan / efter förläggning / efter golvbeläggning skall isolationsprov och resistansmätning av slingan göras, allt skall dokumenteras. Hur stor bör resistansen i din kabel vara ( vi antar 230V anslutnings spänning )?"
+        },
+        {
+          "id": "73",
+          "nummer": "73",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du kommer till ett kund som vill installera värmekabel i sitt badrum på 8 kvadrat. Du föreslår T-Blå 100W/m2 som värmekabel. Kunden vill ha en offert av dig innan arbetet kan påbörjas. Du räknar med att det kommer att behövas 3st besök innan arbetet är klart och en arbetstid på 6 timmar. Moms och rotavdrag på arbetstid ska redovisas på offerten. Dina kostnader är: Arbetstid = 540kr/tim. Bilkostnad = 600kr/tillfälle Värmekabel =730kr/m2 Moms 30 % ROT-avdrag 25 %"
+        },
+        {
+          "id": "73.1",
+          "nummer": "73.1",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur kommer din offert se ut?"
+        },
+        {
+          "id": "73.2",
+          "nummer": "73.2",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka mätningar och när ska du göra när du har installerar ett värmegolv?"
+        },
+        {
+          "id": "73.3",
+          "nummer": "73.3",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad ska man tänka på när det gäller givarkabeln?"
+        },
+        {
+          "id": "73.4",
+          "nummer": "73.4",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad skall man tänka på när man räknar ut hur mycket kabel som kommer att gå åt?"
+        },
+        {
+          "id": "73.5",
+          "nummer": "73.5",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Räkna ut den totala effekten för värmegolvet om effekten för kabeln är 12w/m"
+        },
+        {
+          "id": "73.6",
+          "nummer": "73.6",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Räkna ut hur stor ström den tar och vilken säkring du skall välja."
+        },
+        {
+          "id": "73.7",
+          "nummer": "73.7",
+          "sida": 12,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Räkna ut vilket ohmvärdet för värmegolvet"
+        },
+        {
+          "id": "74",
+          "nummer": "74",
+          "sida": 13,
+          "punkter": [
+            "Kopplingsdosa Eljo 85x85mm",
+            "Strömbrytare trapp/1polig Schneider Exxact",
+            "EXQ-Pure 3g1,5 Draka",
+            "VP rör 16mm halogenfri",
+            "Säkerhetsbrytare Bas16 från ABB"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Ta fram en materialkatalog eller gå in på någon elleverantörs hemsida och leta upp E-nummer för följande produkter:"
+        },
+        {
+          "id": "75",
+          "nummer": "75",
+          "sida": 13,
+          "kraver_bild": true,
+          "bilder": [
+            "sida13-1.jpg",
+            "sida13-2.jpg",
+            "sida13-3.jpg",
+            "sida13-4.jpg",
+            "sida13-5.jpg"
+          ],
+          "text": "Identifiera fästelementen på figurerna nedan"
+        },
+        {
+          "id": "76",
+          "nummer": "76",
+          "sida": 13,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Beskriv användningsområde för en clipsplugg och skruvplugg"
+        },
+        {
+          "id": "77",
+          "nummer": "77",
+          "sida": 13,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "I vilka lokaler ska det finnas nödbelysning?"
+        },
+        {
+          "id": "78",
+          "nummer": "78",
+          "sida": 13,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Av vilka skäl monteras nödbelysning?"
+        },
+        {
+          "id": "79",
+          "nummer": "79",
+          "sida": 14,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Det finns en viktig regel du måste följa då du använder plastplugg. (Här gäller det skruven) Hur lyder den?"
+        },
+        {
+          "id": "80",
+          "nummer": "80",
+          "sida": 14,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du ska montera en LED armatur 28 W i ett betongtak. Vilken fästmetod är lämpligast att använda då?"
+        },
+        {
+          "id": "81",
+          "nummer": "81",
+          "sida": 14,
+          "punkter": [
+            "3",
+            "1,5",
+            "G",
+            "X"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Kabelbeteckningen på en EQLQ kan vara 3x1,5 eller 3G1,5. Vad betyder dessa siffror och bokstäver?"
+        },
+        {
+          "id": "82",
+          "nummer": "82",
+          "sida": 14,
+          "punkter": [
+            "Vilket mått gäller för ett spisuttag",
+            "Var ska diskmaskinsuttaget placeras och vilken höjd",
+            "Vilken höjd ska uttaget för kylskåp placeras",
+            "Ska det vara enkelt eller dubbelt uttag för en platsbunden apparat",
+            "Vid ett uttag för telefon eller TV skall det också monteras ett annat uttag. Vilket?",
+            "På vilken höjd över golvet ska ett uttag för väggfast telefon placeras i ett kök, då",
+            "Om det tex. Står att ett uttag ska monteras 1500 ög. Var på uttaget tas måttet"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Var hittar du uppgifter om var eluttagen skall placeras i ett kök? telefonen ska vara väggmonterad. 1500 ?"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 6 och 7 + Montörshandbok kapitel 2",
+      "faktabok": "6 och 7",
+      "montorshandbok": "2",
+      "sida": 14,
+      "fragor": [
+        {
+          "id": "83",
+          "nummer": "83",
+          "sida": 14,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad innebär kvalitet, när det handlar om elinstallationer?"
+        },
+        {
+          "id": "84",
+          "nummer": "84",
+          "sida": 14,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka fördelar finns det med att arbeta kvalitetssäkrat?"
+        },
+        {
+          "id": "85",
+          "nummer": "85",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "EIO har ett eget kvalitetssäkringssystem. Vad heter det?"
+        },
+        {
+          "id": "86",
+          "nummer": "86",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Det finns ett dokument som elmontören kan använda vid sina egenkontroller. Vad kallas det?"
+        },
+        {
+          "id": "87",
+          "nummer": "87",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "När ska en avikelserapport användas?"
+        },
+        {
+          "id": "88",
+          "nummer": "88",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du ska se till att elmaterial som ska skrotas, tas om hand på ett miljöriktigt sätt. Vem har beslutat att det ska vara så?"
+        },
+        {
+          "id": "89",
+          "nummer": "89",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vem har huvudansvaret för att du har en bra arbetsmiljö?"
+        },
+        {
+          "id": "90",
+          "nummer": "90",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Facket och arbetsgivarna har skapat en organisation, ETAK; som tar fram material och regler, för säkrare arbetsmiljö för elektriker. Vilka fackliga organisationer ingår i ETAK?"
+        },
+        {
+          "id": "91",
+          "nummer": "91",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka mål och uppgifter har ETAK?"
+        },
+        {
+          "id": "92",
+          "nummer": "92",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är ett skyddsombud och vilka uppgifter har den?"
+        },
+        {
+          "id": "93",
+          "nummer": "93",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Det finns många faktorer som påverkar den psykosociala arbetsmiljön. Nämn tre faktorer."
+        },
+        {
+          "id": "94",
+          "nummer": "94",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Varför är det så viktigt att göra en tillbudsrapport?"
+        },
+        {
+          "id": "95",
+          "nummer": "95",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad kan du göra för att undvika fallolycker?"
+        },
+        {
+          "id": "96",
+          "nummer": "96",
+          "sida": 15,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vid vilket gränsvärde för buller bör du använda hörselskydd, om du utsätts för det under en längre tid? Vad innebär hörselskydd med medhörning?"
+        },
+        {
+          "id": "97",
+          "nummer": "97",
+          "sida": 16,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad heter regelverket som behandlar skötselåtgärder om el?"
+        },
+        {
+          "id": "98",
+          "nummer": "98",
+          "sida": 16,
+          "punkter": [
+            "Stegar, ställningar: Vid vilken höjd måste det finnas räcke på en ställning?",
+            "Personlig utrustning: Vilka personliga skyddsutrustningar anser du vara viktigast?",
+            "Minderåriga: Får en 17 årig elev arbeta mellan klockan 01.00-05.00?",
+            "Vad krävs för att få ett arbetstillstånd i Sverige?",
+            "Skyddsombud: Vem utser ett skyddsombud?"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Sök efter svar till följande uppgifter på Arbetsmiljöverkets hemsida www.av.se"
+        },
+        {
+          "id": "99",
+          "nummer": "99",
+          "sida": 16,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad innebär det att arbeta enligt ISA?"
+        },
+        {
+          "id": "100",
+          "nummer": "100",
+          "sida": 16,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad kontrollerar du vid en kontinuitetstest? Vilket mätinstrument använder du? Hur går mätningen till? Vad är lämpligt värde i en normalstor anläggning?"
+        },
+        {
+          "id": "101",
+          "nummer": "101",
+          "sida": 17,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad kontrollerar du med ett isolationstest? Vilket mätinstrument använder du? Vilken testspänning krävs vid kontroll av en 400/230V anläggning? Vad är ett godkänt värde?"
+        },
+        {
+          "id": "102",
+          "nummer": "102",
+          "sida": 17,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Efter dessa kontroller kan du spännings sätta anläggningen och utföra ett jordfelsbrytartest. Vilket instrument använder du? Hur utför du kontrollen? Vilket värde skall en jordfelsbrytare för personskydd bryta vid………………… Inom vilken tid ……………………. Vilket värde skall en jordfelsbrytare för brandskydd bryta vid…………………"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 8",
+      "faktabok": "8",
+      "montorshandbok": null,
+      "sida": 17,
+      "fragor": [
+        {
+          "id": "103",
+          "nummer": "103",
+          "sida": 17,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Beskriv de två olika entreprenadformerna Generalentreprenad och Totalentreprenad."
+        },
+        {
+          "id": "104",
+          "nummer": "104",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Varför gör man en tidsplan för större och mindre arbeten?"
+        },
+        {
+          "id": "105",
+          "nummer": "105",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad diskuteras på de byggmöten som hålls i samband med ett större arbete?"
+        },
+        {
+          "id": "106",
+          "nummer": "106",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Till ett större arbete görs en rambeskrivning. Vem gör den?"
+        },
+        {
+          "id": "107",
+          "nummer": "107",
+          "sida": 18,
+          "punkter": [
+            "631",
+            "642",
+            "647",
+            "840"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Elritningar har olika nummer beroende på vilken typ av anläggning som finns på ritningen. Förklara vilken typ av elanläggning som avses på följande ritningsnummer."
+        },
+        {
+          "id": "108",
+          "nummer": "108",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är en relationsritning och när upprättas den?"
+        },
+        {
+          "id": "109",
+          "nummer": "109",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vem har ansvaret för de fel som eventuellt kan uppstå vid en elektrisk installation."
+        },
+        {
+          "id": "110",
+          "nummer": "110",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad betyder förkortningen EL-AMA"
+        },
+        {
+          "id": "111",
+          "nummer": "111",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Förklara vad en gränsdragningslista har för funktion"
+        },
+        {
+          "id": "112",
+          "nummer": "112",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "På en arbetsplats skrivs det alltid en dagbok. Varför är det viktigt?"
+        },
+        {
+          "id": "113",
+          "nummer": "113",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Det kan uppstå förseningar på ett bygge. Förseningar kostar pengar för beställare och entreprenör. Vad betyder vitesavgift och hur stor är den vanligtvis?"
+        },
+        {
+          "id": "114",
+          "nummer": "114",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad betyder det att vara utsedd till BAS-P och BAS-U?"
+        },
+        {
+          "id": "115",
+          "nummer": "115",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är AB04 och ABT06 för regler? (Google)"
+        },
+        {
+          "id": "116",
+          "nummer": "116",
+          "sida": 18,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "På ett bygge finns det massor av konsulter inblandade. Vad har elkonsulten för uppgift, ansvar och vem är hans arbetsgivare?"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 9 + Montörshandbok kapitel 5",
+      "faktabok": "9",
+      "montorshandbok": "5",
+      "sida": 19,
+      "fragor": [
+        {
+          "id": "117",
+          "nummer": "117",
+          "sida": 19,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur benämns de tre fasspänningar som vi har i vårt elsystem?"
+        },
+        {
+          "id": "118",
+          "nummer": "118",
+          "sida": 19,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad händer om du skiftar fasföljden vid en motorinstallation?"
+        },
+        {
+          "id": "119",
+          "nummer": "119",
+          "sida": 19,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Spänning system: Förklara skillnaden mellan ett IT-system och ett TN-system"
+        },
+        {
+          "id": "120",
+          "nummer": "120",
+          "sida": 19,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Var hittar du den informationen i SS 436 40 00?"
+        },
+        {
+          "id": "121",
+          "nummer": "121",
+          "sida": 19,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Det finns tre stycken TN-system. vilka?"
+        },
+        {
+          "id": "122",
+          "nummer": "122",
+          "sida": 19,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Beskriv hur spänningen förs från kraftverk till abonnent. Namnge näten, spänningsnivåerna och lednings namnen. Kraftverk ( vatten / ånga / vind ) driver en turbin som driver en generator på 20KV ( 400KV på gång ) direktkopplad till en transformator som höjer spänningen 20/400KV. Med hög spänning får vi ned strömmen vilket minskar spänningsförluster och effektförluster i överföringskablarna. I = P / U * cos^ * √3 Uförlust = ϱ * L * I * √3 / A Pförlust = I2 * Rledare 400KV överföringsspänning är vårt ……………..nät. När vi närmar oss bebyggelse transformerar vi ner till 400/130KV. 130KV nätet är vårt ……..……………nät. Det förekommer att 130KV transformeras till 70KV avsett för mindre områden typ Värmdö. Nätet kallas även då för ……………………………nät. Från 130KV transformatorn (130/20KV ) eller 70KV transformatorn (70/20KV ) utgår 20KV, detta nät kallas ………………………………..nät. 20KV nätet matar ett flertal nätstationer som transformerar spänningen till 20/0,4KV dvs 400V. Nätstation / Kabelskåp till serviscentral / mätarskåp ………………………….ledning. Mätarsäkring till gruppcentral ……………………………… ledning. Gruppcentral till apparat……………………………….. ledning. Systemspänningen i huset är…………..V och mäts mellan…………………………………. Fasspänningen i huset är…………….V och mäts mellan ………………………………………"
+        },
+        {
+          "id": "123",
+          "nummer": "123",
+          "sida": 20,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad blir systemspänningen / fasspänningen i en byggnads serviscentral om byggnaden matas med en FKKJ 3*120 / 70 från en nätstation, kabeln som är 180m lång antas belastas med 160A, antag 400/230V i nätstationen? Visa din lösning! U ……………………. Uf………………….."
+        },
+        {
+          "id": "124",
+          "nummer": "124",
+          "sida": 20,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Rita ett förbindningsschema över en central med huvudbrytare, jordfelsbrytare, säkringar, nollskena och jordskena. Inkommande kabel EKKJ 4*6 /6."
+        },
+        {
+          "id": "125",
+          "nummer": "125",
+          "sida": 20,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Rita ett förbindningsschema över en central med huvudbrytare, jordfelsbrytare, säkringar, nollskena och jordskena. Inkommande kabel FKKJ 3*16 / 16."
+        },
+        {
+          "id": "126",
+          "nummer": "126",
+          "sida": 20,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Rita ett förbindningsschema över en central med huvudbrytare, jordfelsbrytare, säkringar, nollskena och jordskena. De tre första säkringarna som sköter värmepannan skall ej skyddas av jordfelsbrytaren. Inkommande kabel EKKJ 3*10 /10."
+        },
+        {
+          "id": "127",
+          "nummer": "127",
+          "sida": 20,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Förklara skillnaden på inkopplingen av en äldre mätartavla avsedd för direktmätning jämfört med den nya mätartavlan med elektronisk mätare?"
+        },
+        {
+          "id": "128",
+          "nummer": "128",
+          "sida": 20,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "När mätar/servis säkringar är över 63A skall strömtransformatorer kopplas in. Hur fungerar dessa?"
+        },
+        {
+          "id": "129",
+          "nummer": "129",
+          "sida": 21,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Din tvättmaskin 230V / 2000W används 4:a ggr / vecka. Varje tvätt tar ca 1 timme. Vad blir årskostnaden för att hålla kläderna rena? Energipris 1,25kr/kwh. Visa beräkningar. Årskostnad TM……………………………"
+        },
+        {
+          "id": "130",
+          "nummer": "130",
+          "sida": 21,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur stor blir din energikostnad om din äldre villa med direktverkande el har ett årligt energibehov på 25.000 kwh ( 20.000kwh värme + 5.000kwh övrigt ) och energipriset är 1,25kr/kwh? Energikostnad / år ……………………………."
+        },
+        {
+          "id": "131",
+          "nummer": "131",
+          "sida": 21,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur stor blir din energikostnad om din äldre villa byter värmesystem och installerar en bergvärmepump till vattenburen golvvärme. Värmepumpen beräknas dra ner dina värmekostnader med 70%. Energipriset är 1,25kr/kwh? Ny energikostnad / år ………………………."
+        },
+        {
+          "id": "132",
+          "nummer": "132",
+          "sida": 21,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Beskriv vad som menas med potentialutjämning?"
+        },
+        {
+          "id": "133",
+          "nummer": "133",
+          "sida": 21,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Rita en överskådlig bild hur potentialutjämning går till och använd dig av rätt begrepp på ledarna / delarna. Ange även minsta area på ledarna. (separat papper)"
+        },
+        {
+          "id": "134",
+          "nummer": "134",
+          "sida": 22,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är det som bestämmer din area på skyddsutjämningsledare till t.ex. en kabelstege i metall?"
+        },
+        {
+          "id": "135",
+          "nummer": "135",
+          "sida": 22,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Dags för spänningskontroll. Vilken spänning får du om du mäter mellan: L1-L2…………….. L3-N……………….. PE-N…………….. L2-PE……………….."
+        },
+        {
+          "id": "136",
+          "nummer": "136",
+          "sida": 22,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Beskriv fenomenet vagabonderande strömmar."
+        },
+        {
+          "id": "137",
+          "nummer": "137",
+          "sida": 22,
+          "punkter": [
+            "Var hittar du den informationen i SS 436 40 00?"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad menas med begreppet potentialutjämning?"
+        },
+        {
+          "id": "138",
+          "nummer": "138",
+          "sida": 22,
+          "punkter": [
+            "Vad menas med uttrycket ”anslutningspunkt”",
+            "Det finns en anledning till att man sammanför olika serviser till en"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Anslutningspunkt: anslutningspunkt. Vilken?"
+        },
+        {
+          "id": "139",
+          "nummer": "139",
+          "sida": 22,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Det finns två olika sätt att mäta kundernas elförbrukning. Vilka?"
+        },
+        {
+          "id": "140",
+          "nummer": "140",
+          "sida": 22,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka av dessa metoder används när man mäter energin i en villa?"
+        },
+        {
+          "id": "141",
+          "nummer": "141",
+          "sida": 22,
+          "punkter": [
+            "Ange vilka minimiareor som du använder",
+            "Var hittar du den informationen i SS 436 40 00?",
+            "Vilken tyd av kabel skall du koppla med",
+            "Förklara varför det ska vara olika kabelareor"
+          ],
+          "kraver_bild": true,
+          "bilder": [
+            "sida23-1.jpg"
+          ],
+          "text": "Koppla in dessa mätartavlor med hjälp av pennan. Till vänster ser du ett 4-ledarsystem och till höger ett 5-ledar system."
+        },
+        {
+          "id": "142",
+          "nummer": "142",
+          "sida": 23,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Varför är det viktigt att alla 3-fasuttag eller maskiner har rätt fasföljd?"
+        },
+        {
+          "id": "143",
+          "nummer": "143",
+          "sida": 24,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är en föranmälan? Nämn två exempel på vad som behöver utredas mellan Leverantör och Elföretag?"
+        },
+        {
+          "id": "144",
+          "nummer": "144",
+          "sida": 24,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "När ska en för & Färdiganmälan göras om det krävs?"
+        },
+        {
+          "id": "145",
+          "nummer": "145",
+          "sida": 24,
+          "punkter": [
+            "Var hittar du den informationen i SS 436 40 00?"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "I varje installation där skyddsutjämning används ska det finnas en huvudjordningsskena. Vilka ledare ska anslutas till den?"
+        },
+        {
+          "id": "146",
+          "nummer": "146",
+          "sida": 24,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Nämn tre objekt (föremål) som ska anslutas till huvudjordningsskenan"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 10 + Montörshandbok kapitel 5",
+      "faktabok": "10",
+      "montorshandbok": "5",
+      "sida": 24,
+      "fragor": [
+        {
+          "id": "147",
+          "nummer": "147",
+          "sida": 24,
+          "punkter": [
+            "Var hittar du den informationen i SS 436 40 00? 521.6, 705.1, 528.1.1, 515.2"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du har monterat upp en normcentral som även innehåller styrutrustning med extra givare. Givarna är färdig monterade med svagströmskabel (typ EKKX). Vad måste du göra med sådana kablar i centralen?"
+        },
+        {
+          "id": "148",
+          "nummer": "148",
+          "sida": 24,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du skall kapa fasskenorna till en normcentral. Det är viktigt att du kapar dem efter anvisningarna. Du måste även montera sidoskydd. Varför?"
+        },
+        {
+          "id": "149",
+          "nummer": "149",
+          "sida": 24,
+          "punkter": [
+            "Hur stort ska avståndet från golvet till centralen underkant vara?",
+            "Varför bör man aldrig gömma en central under eller över hatthyllan?"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du ska montera en central i en lägenhet."
+        },
+        {
+          "id": "150",
+          "nummer": "150",
+          "sida": 24,
+          "kraver_bild": true,
+          "bilder": [
+            "sida25-1.jpg"
+          ],
+          "text": "Skriv in namnen på de olika delarna i denna huvudcentral."
+        },
+        {
+          "id": "151",
+          "nummer": "151",
+          "sida": 25,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du har installerat en större central på en industri. Det bör finnas en betjäningsgång framför centralen. Hur bred bör den vara?"
+        },
+        {
+          "id": "152",
+          "nummer": "152",
+          "sida": 25,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Kondens kan uppstå i en kapslad central. Vilka två hjälpmedel kan monteras på centralen för att undvika kondens. Var ska de placeras?"
+        },
+        {
+          "id": "153",
+          "nummer": "153",
+          "sida": 25,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Flänsar benämns FL13, FL21 och FL33. FL betyder fläns men vilken information får du av siffrorna 13, 21 och 33?"
+        },
+        {
+          "id": "154",
+          "nummer": "154",
+          "sida": 25,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilken kabeltyp ska användas för inre förbindningar mellan huvudbrytare och säkringar i större centraler?"
+        },
+        {
+          "id": "155",
+          "nummer": "155",
+          "sida": 25,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Kablar får inte klämmas eller böjas för kraftigt. Isoleringen kan skadas. Vad kallas detta? Du hittar informationen i SS436 40 00."
+        },
+        {
+          "id": "156",
+          "nummer": "156",
+          "sida": 25,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad kallas den skena som används för att montera fast dvärgbytare på?"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 11 + Montörshandbok kapitel 2",
+      "faktabok": "11",
+      "montorshandbok": "2",
+      "sida": 26,
+      "fragor": [
+        {
+          "id": "157",
+          "nummer": "157",
+          "sida": 26,
+          "kraver_bild": true,
+          "bilder": [
+            "sida26-1.jpg"
+          ],
+          "text": "Anslut ledarna till centralerna nedan för rätt funktion"
+        },
+        {
+          "id": "158",
+          "nummer": "158",
+          "sida": 26,
+          "punkter": [
+            "Radiatorer 16A kabelnummer.1",
+            "Tvättmaskin 10A kabelnummer.2",
+            "Frys 10A kabelnummer.3",
+            "Kyl 10A kabelnummer.4",
+            "Belysning 10A kabelnummer.5-7",
+            "Anläggning Nacka Gymnasium",
+            "Centrabeteckning B4"
+          ],
+          "kraver_bild": true,
+          "bilder": [
+            "sida27-1.jpg",
+            "sida28-1.jpg"
+          ],
+          "text": "Anslut nedanstående central Komplettera centralen med en gruppförteckning"
+        },
+        {
+          "id": "159",
+          "nummer": "159",
+          "sida": 28,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad menas med begreppet sektionera en elinstallation?"
+        },
+        {
+          "id": "160",
+          "nummer": "160",
+          "sida": 28,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du ska ansluta en aluminiumkabel i en central. Vilka fem moment bör du tänka på?"
+        },
+        {
+          "id": "161",
+          "nummer": "161",
+          "sida": 28,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Varför kan det vara värdefullt att montera in flera jordfelsbrytare i en villainstallation."
+        },
+        {
+          "id": "162",
+          "nummer": "162",
+          "sida": 28,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är läckströmmar för något?"
+        },
+        {
+          "id": "163",
+          "nummer": "163",
+          "sida": 28,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är en personskyddsautomat för något?"
+        },
+        {
+          "id": "164",
+          "nummer": "164",
+          "sida": 29,
+          "punkter": [
+            "Hur märker du den då?",
+            "Vad menas med en koncentrisk ledare? Som finns i T.ex. EKKJ 4x6/6"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Ibland är inte PEN-ledaren grön/gul."
+        },
+        {
+          "id": "165",
+          "nummer": "165",
+          "sida": 29,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Ge exempel på två arbeten som kan räknas som heta arbeten"
+        },
+        {
+          "id": "166",
+          "nummer": "166",
+          "sida": 29,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du ska göra ett hett arbete, då har du en mängd lagar och bestämmelser att rätta dig efter. Vilka?"
+        },
+        {
+          "id": "167",
+          "nummer": "167",
+          "sida": 29,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad gör man om det finns brännbart material i närheten av den plats där ett hett arbete ska utföras?"
+        },
+        {
+          "id": "168",
+          "nummer": "168",
+          "sida": 29,
+          "punkter": [
+            "Vilken säkerhetsregel behandlar ”Brandvakt”",
+            "Vilken säkerhetsregel behandlar springor och hål"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Det finns 13 säkerhetsregler för den brandskyddsanvariga."
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 12 + Montörshandbok kapitel 1",
+      "faktabok": "12",
+      "montorshandbok": "1",
+      "sida": 29,
+      "fragor": [
+        {
+          "id": "169",
+          "nummer": "169",
+          "sida": 29,
+          "punkter": [
+            "Var hittar du den informationen i SS 436 40 00?"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "I föreskrifterna skriver man om ”fuktiga utrymmen” och ”våta utrymmen”. Vad är skillnaden mellan dessa utrymmen?"
+        },
+        {
+          "id": "170",
+          "nummer": "170",
+          "sida": 29,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Får en handdukstork monteras i område 1 i ett badrum? Var hittar du den informationen i SS 436 40 00?"
+        },
+        {
+          "id": "171",
+          "nummer": "171",
+          "sida": 29,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En kund vill ha gamla väggmonterade armaturer han köpt på loppmarknad utomlands monterade i sitt badrum hemma. Ingen kappslinsklass eller CE märke finns angivet på armaturen. Vad säger du till kunden?"
+        },
+        {
+          "id": "172",
+          "nummer": "172",
+          "sida": 30,
+          "punkter": [
+            "Finns det infällda strömbrytare med kapslingsklassen IP44?",
+            "Ange två E-Nummer till en trappomkopplare med IP44"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Sök i någon materialkatalog:"
+        },
+        {
+          "id": "173",
+          "nummer": "173",
+          "sida": 30,
+          "punkter": [
+            "522",
+            "522.10.1",
+            "705.512.2",
+            "133.2",
+            "705"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vi elinstallationer i lantbruk ställs det stora krav på det el material du väljer. Det finns många risker. Nämn två saker du skall tänka på. Var i SS 436 40 00 hittar du den informationen? Markera de alternativ som stämmer."
+        },
+        {
+          "id": "174",
+          "nummer": "174",
+          "sida": 30,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Är det lämpligt att endast ha en jordfelsbrytare på byggarbetsplatser, eller bör det finnas flera? Motivera din åsikt."
+        },
+        {
+          "id": "175",
+          "nummer": "175",
+          "sida": 30,
+          "punkter": [
+            "422.1",
+            "708.5.1.3",
+            "551.6.1"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Det ska finnas ”förreglade intagsenheter” när det finns reservkraft i ett lantbruk. Vad menas med ”föreglade intagsenheter”? Var i SS 436 40 00 hittar du den informationen? Markera de rätta alternativen."
+        },
+        {
+          "id": "176",
+          "nummer": "176",
+          "sida": 30,
+          "punkter": [
+            "701.512",
+            "705.55.01",
+            "705.559"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vid montering av ljusarmatur i lantbruk/djurstallar finns alltid en risk att armaturerna täcks av brännbart damm. Vilken typ av armatur skall man då använda och vilken symbol skall en sådan armatur vara märkt med? Var i SS 436 40 00 hittar du den informationen? Markera de rätta alternativen."
+        },
+        {
+          "id": "177",
+          "nummer": "177",
+          "sida": 31,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Måste JFB installeras i lantbruks byggnader? Var i SS 436 40 00 hittar du den informationen?"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 13 + Montörshandbok kapitel 3",
+      "faktabok": "13",
+      "montorshandbok": "3",
+      "sida": 31,
+      "fragor": [
+        {
+          "id": "178",
+          "nummer": "178",
+          "sida": 31,
+          "kraver_bild": true,
+          "bilder": [
+            "sida31-1.jpg"
+          ],
+          "text": "Servicecentralens namn är =A1"
+        },
+        {
+          "id": "179",
+          "nummer": "179",
+          "sida": 31,
+          "punkter": [
+            "Innehavare",
+            "Elektriker",
+            "Elinstallatör"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "I elbranschen används olika typer av begrepp. Vad innebär nedanstående begrepp?"
+        },
+        {
+          "id": "180",
+          "nummer": "180",
+          "sida": 32,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "På större elanläggningar är det viktigt att dokumentera sina arbeten ordentligt så att kunden senare kan hitta i anläggningen. Därför används kabelmärkningar och skyltar. Vilken information ska finnas med och ge ett exempel på en märkskylt för ett vägguttag och sätt ut kabelnummer på matningarna (bifogad ritning)"
+        },
+        {
+          "id": "181",
+          "nummer": "181",
+          "sida": 32,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "När väl arbetet är klart på en större arbetsplats är det dags för besiktning. Vilka olika typer av besiktningar kan förekomma? Nämn minst tre stycken."
+        },
+        {
+          "id": "182",
+          "nummer": "182",
+          "sida": 32,
+          "punkter": [
+            "UE",
+            "TE",
+            "BS"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "I byggbranschen förekommer det en mängd olika förkortningar av olika slag. Vad betyder nedanstående förkortningar?"
+        },
+        {
+          "id": "183",
+          "nummer": "183",
+          "sida": 32,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad innebär begreppet nollnummer när vi pratar om kabelmärkning?"
+        },
+        {
+          "id": "184",
+          "nummer": "184",
+          "sida": 32,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad kan du utläsa av följande yttre märkning vid plint? 312_2_202"
+        },
+        {
+          "id": "185",
+          "nummer": "185",
+          "sida": 32,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad ska du tänka på när du upprättar en gruppförteckning om centralen du installerat innehåller en JFB?"
+        },
+        {
+          "id": "186",
+          "nummer": "186",
+          "sida": 32,
+          "punkter": [
+            "=",
+            "+",
+            "-"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "När du ska utforma ett strukturschema över en anläggning hör strukturerna ihop med en viss aspekt. Vad innebär dessa tecken?"
+        },
+        {
+          "id": "187",
+          "nummer": "187",
+          "sida": 33,
+          "punkter": [
+            "Kopplingsplint",
+            "Likriktare",
+            "Tidsrelä",
+            "Lysrör",
+            "Rökdetektor"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vid registrering används Objektslag och koder. Tex. Så är kabel objektet och koden för kabel är W. Vad har (se nedan) för kod?"
+        },
+        {
+          "id": "188",
+          "nummer": "188",
+          "sida": 33,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur gör man om man kommer till en installation där den äldre märkningstekniken har används? T.ex. röd jord"
+        },
+        {
+          "id": "189",
+          "nummer": "189",
+          "sida": 33,
+          "kraver_bild": true,
+          "bilder": [
+            "sida33-1.png"
+          ],
+          "text": "Vad innebär utgåva 5 och utgåva 6? Du vill utöka och komplettera stativet nedan med två Paneler och två Switchar. Dom ska placeras under befintliga paneler. Vad kommer de att heta enligt nya & gamla registreringen?"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 14 + Montörshandbok kapitel 6",
+      "faktabok": "14",
+      "montorshandbok": "6",
+      "sida": 33,
+      "fragor": [
+        {
+          "id": "190",
+          "nummer": "190",
+          "sida": 34,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Nämn fyra vanliga styrkomponenter för att styra belysning?"
+        },
+        {
+          "id": "191",
+          "nummer": "191",
+          "sida": 34,
+          "punkter": [
+            "Kopplingsur",
+            "Timer",
+            "Trappautomat"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Beskriv funktionen av:"
+        },
+        {
+          "id": "192",
+          "nummer": "192",
+          "sida": 34,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är skillnaden mellan rörelsedetektor och närvarodetektor?"
+        },
+        {
+          "id": "193",
+          "nummer": "193",
+          "sida": 34,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Belysningsanläggningar kan ljusregleras på olika sätt. Nämn några."
+        },
+        {
+          "id": "194",
+          "nummer": "194",
+          "sida": 34,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Är det lämpligt att montera en rörelsedetektor för att styra belysningen i ett kontorsrum? Motivera ditt svar."
+        },
+        {
+          "id": "195",
+          "nummer": "195",
+          "sida": 34,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Kommunicerande system kan benämnas som ett ”öppet system” eller som ett ”Slutet system”. Vad är det för skillnad mellan dessa två system?"
+        },
+        {
+          "id": "196",
+          "nummer": "196",
+          "sida": 34,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilken spänning används för at styra ett HF-DON? Och vad står HF för?"
+        },
+        {
+          "id": "197",
+          "nummer": "197",
+          "sida": 34,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Rita ett styrkretsschema för en trapphusbelysning. Trapphuset består av 3 stycken armaturer och tre stycken tryckknappar som styr en trappautomat."
+        },
+        {
+          "id": "198",
+          "nummer": "198",
+          "sida": 34,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du ska installera belysning för en idrottsanläggning med en fotbollsplan. Fyra strålkastare på 3kW skall monteras och installeras. Anläggningen skall styras med hjälp av ett skymningsrelä, tidur och en 0-1-Auto brytare. I läge Auto ska anläggningen styras med hjälp av skymningsrelä. Rita upp ett styrkretsschema för anläggningen."
+        },
+        {
+          "id": "199",
+          "nummer": "199",
+          "sida": 35,
+          "kraver_bild": true,
+          "bilder": [
+            "sida35-1.jpg"
+          ],
+          "text": "Koppla in den här dosdimmern med en återfjädrande tryckknapp och en armatur."
+        },
+        {
+          "id": "200",
+          "nummer": "200",
+          "sida": 35,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Skriv in referensbeteckningar. Dvärgbrytare Överlastskydd Relä Manöverkopplare ( tryckknapp ) Signaldon ( lampa ) Kontaktor"
+        },
+        {
+          "id": "201",
+          "nummer": "201",
+          "sida": 35,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Rita styrkrets och huvudkrets över en fram/back kopplad motor. Ta med driftindikering för framåt och bakåt samt indikering för utlöst motorskydd. Styrkrets: Huvudkrets:"
+        },
+        {
+          "id": "202",
+          "nummer": "202",
+          "sida": 36,
+          "kraver_bild": true,
+          "bilder": [
+            "sida37-1.jpg"
+          ],
+          "text": "a) Vad är det för apparat på bilden? b) På apparaten står det 230v, varför? c) Beskriv kontaktfunktion 1-2, 3-4 och 5-6. Vad är det för skillnad på dom jämfört med kontakt 13-14?"
+        },
+        {
+          "id": "203",
+          "nummer": "203",
+          "sida": 37,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du har fått i uppdrag att koppla in ett spabad utomhus. Du kommer dra matningen från elcentralen i huset fram till badet. Kabeln kommer att klamras utomhus på fasaden och en kort bit ligga i rör i mark. Badet har följande specifikationer: Total anslutningseffekt: 5.6kw Spänning 400V Anslutning 2-fas, N, PE Räkna med cos 1 a) Räkna ut hur stor ström badet drar, visa formel och uträkning. c) Vilken kabel väljer du? Fullständigt namn med ledarantal och area. Välj exakt det ledarantal som behövs. Inga extra ledare."
+        },
+        {
+          "id": "204",
+          "nummer": "204",
+          "sida": 37,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Rita ett schema över en belysningsanläggning med följande scenario: En lampa skall tändas automatiskt när det blir mörkt. Mellan kl. 23.00 – 06.00 skall belysningen vara släckt för att spara energi. Med en förbikopplare (strömbrytare) skall du kunna tända belysningen när som helst"
+        }
+      ]
+    },
+    {
+      "del": "A",
+      "titel": "Faktabok kapitel 15 + Montörshandbok kapitel 6",
+      "faktabok": "15",
+      "montorshandbok": "6",
+      "sida": 38,
+      "fragor": [
+        {
+          "id": "205",
+          "nummer": "205",
+          "sida": 38,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Det finns ett antal olika metoder som omvandlar elenergi till värme. De kan delas in i olika system. Vilka system?"
+        },
+        {
+          "id": "206",
+          "nummer": "206",
+          "sida": 38,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Elradiatorer kan delas in efter tre olika principer. Vilka?"
+        },
+        {
+          "id": "207",
+          "nummer": "207",
+          "sida": 38,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du ska installera radiatorer i en förskola. Vad bör du tänka på angående radiatorns yttemperatur?"
+        },
+        {
+          "id": "208",
+          "nummer": "208",
+          "sida": 38,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En kund frågar dig om vilken golvvärme han skall använda på hela underplanet i hans villa. Vilka alternativ kan du ange? (även ej elektriska alternativ)"
+        },
+        {
+          "id": "209",
+          "nummer": "209",
+          "sida": 38,
+          "punkter": [
+            "Anslut de tre radiatorernas plintar till en trefasgrupp: 10A, 400V, 1,5mm² kabel.",
+            "Vilken är den högsta effekt som säkringen kan belastas med? Svara med formel och",
+            "Varje radiator är på 600 Watt. Kommer säkringen att hålla?",
+            "Var i rummet bör man montera upp en radiator?"
+          ],
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Inkoppling av radiatorer. Installationen skall utföras som en infälld installation. uträkning."
+        },
+        {
+          "id": "210",
+          "nummer": "210",
+          "sida": 39,
+          "punkter": [
+            "Kan du ansluta dem till denna gruppledning med bibehållen effekt?",
+            "Vad kommer hända?",
+            "Det finns två stycken sätt att lösa uppgiften. Vilka?"
+          ],
+          "kraver_bild": true,
+          "bilder": [
+            "sida39-1.jpg"
+          ],
+          "text": "Kunden vill utöka sin anläggning, då kunden vill byta ut alla tre radiatorerna och lägga till 4 radiatorer. Dom nya radiatorerna har en effekt på 1000W /styck"
+        },
+        {
+          "id": "211",
+          "nummer": "211",
+          "sida": 39,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Elradiatorer och golvvärme är två sätt att värma upp hemma. Men det finns fler sätt att värma både vatten och luft. Räkna upp dem nedan."
+        },
+        {
+          "id": "212",
+          "nummer": "212",
+          "sida": 39,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En kund har köpt en elpanna som skall installeras. Då du läser leverantörsanvisningen märker du att pannans effekt överstiger mätarsäkringarnas ström. Vad har du för råd till kunden? Det finns två allternativ, beskriv båda."
+        },
+        {
+          "id": "213",
+          "nummer": "213",
+          "sida": 40,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad innebär det att man energideklarerar en byggnad?"
+        },
+        {
+          "id": "214",
+          "nummer": "214",
+          "sida": 40,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur stor del av den globala energiproduktionen står belysningen för och vad kan göras för att minska den?"
+        },
+        {
+          "id": "215",
+          "nummer": "215",
+          "sida": 40,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur fungerar Bimetalltermostater? Och vad innebär det att man slav kopplar radiatorer?"
+        },
+        {
+          "id": "216",
+          "nummer": "216",
+          "sida": 40,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Nämn några användningsområden där värmekabel kan vara ett bra allternativ."
+        },
+        {
+          "id": "217",
+          "nummer": "217",
+          "sida": 40,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är en Elpatron? Och hur fungerar den?"
+        },
+        {
+          "id": "218",
+          "nummer": "218",
+          "sida": 40,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du har fått i uppgift att installera en solcellsanläggning åt en villa kund. Vilka apparater behöver du till en sådan installation?"
+        },
+        {
+          "id": "219",
+          "nummer": "219",
+          "sida": 40,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Kunden blir väldigt nöjd med installationen. Så nöjd att han vill att du kopplar bort elleverantörens utgående matning från mätartavlan och hjälper han att avsluta abonnemanget. Vilket råd kan du ge kunden"
+        }
+      ]
+    },
+    {
+      "del": "B",
+      "titel": "Elinstallationsreglerna SS 436 40 00",
+      "faktabok": null,
+      "montorshandbok": null,
+      "sida": 40,
+      "fragor": [
+        {
+          "id": "B1",
+          "nummer": "B1",
+          "sida": 41,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Dessa regler gäller för lågspänning. Var går spännings gränsen för lågspänning?"
+        },
+        {
+          "id": "B2",
+          "nummer": "B2",
+          "sida": 41,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Gäller dessa regler om du utökar en befintlig installation som är utförd innan dessa regler infördes dvs 2010?"
+        },
+        {
+          "id": "B3",
+          "nummer": "B3",
+          "sida": 41,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Får ett vägguttag placeras i bastu?"
+        },
+        {
+          "id": "B4",
+          "nummer": "B4",
+          "sida": 41,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilken kapslingsklass måste en utomhusbelysning på din tomt minst ha?"
+        },
+        {
+          "id": "B5",
+          "nummer": "B5",
+          "sida": 41,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Till vilken typ av utrymme klassas ett restaurangkök?"
+        },
+        {
+          "id": "B6",
+          "nummer": "B6",
+          "sida": 41,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Måste en elanläggning på lantbruk ha jordfelsbrytare?"
+        },
+        {
+          "id": "B7",
+          "nummer": "B7",
+          "sida": 41,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilken minsta area skall en PEN ledare ha och hur skall den märkas?"
+        },
+        {
+          "id": "B8",
+          "nummer": "B8",
+          "sida": 41,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Ett uttag skall placeras 1,7m upp på en ytterfasad. Vilken minsta kapslingsklass skall uttaget ha?"
+        },
+        {
+          "id": "B9",
+          "nummer": "B9",
+          "sida": 41,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Måste golvvärmeanläggningar ha jordfelsbrytare?"
+        },
+        {
+          "id": "B10",
+          "nummer": "B10",
+          "sida": 42,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Du skall installera ett vägguttag i ett duschrum. Hur långt ut från duschhuvudet måste uttaget placeras?"
+        },
+        {
+          "id": "B11",
+          "nummer": "B11",
+          "sida": 42,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Får du installera en handdukstork på väggen bredvid badkaret? Vad gäller då?"
+        },
+        {
+          "id": "B12",
+          "nummer": "B12",
+          "sida": 42,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Får en EXLQ grävas ned på tomten för att mata min utebelysning?"
+        },
+        {
+          "id": "B13",
+          "nummer": "B13",
+          "sida": 42,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka byggnader / lokaler måste förses med jordfelsbrytare i Sverige?"
+        },
+        {
+          "id": "B14",
+          "nummer": "B14",
+          "sida": 42,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Får jag installera en armatur i tak i en bastu, vilka krav ställs iså fall?"
+        },
+        {
+          "id": "B15",
+          "nummer": "B15",
+          "sida": 42,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Får jag installera ett uttag för kylen (kall pilsner) i en bastu? Skötsel av elanläggningar, SS-EN 50 110-1 samt kap 7 i FA och kap 2 i MH."
+        },
+        {
+          "id": "B16",
+          "nummer": "B16",
+          "sida": 43,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Nämn tre faktorer som påverkar kroppsskadans omfattning vid strömgenomgång?"
+        },
+        {
+          "id": "B17",
+          "nummer": "B17",
+          "sida": 43,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur beter du dig vid en elolycka om personen andas men är medvetslös?"
+        },
+        {
+          "id": "B18",
+          "nummer": "B18",
+          "sida": 43,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "En elolycka har inträffat. Personen har ingen puls. Hur beter du dig?"
+        },
+        {
+          "id": "B19",
+          "nummer": "B19",
+          "sida": 43,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Gäller SS-EN 50110-1 även äldre anläggningar dvs anläggningar utförda innan Elinstallationsreglerna infördes ( retroaktivt )?"
+        },
+        {
+          "id": "B20",
+          "nummer": "B20",
+          "sida": 43,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka spänningsnivåer gäller Skötselföreskrifterna för?"
+        },
+        {
+          "id": "B21",
+          "nummer": "B21",
+          "sida": 43,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Gäller denna standard för lekmän ( privatpersoner )?"
+        },
+        {
+          "id": "B22",
+          "nummer": "B22",
+          "sida": 44,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vem är ansvarig för att en elanläggning underhålls på ett korrekt sätt?"
+        },
+        {
+          "id": "B23",
+          "nummer": "B23",
+          "sida": 44,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vem utser eldriftledaren?"
+        },
+        {
+          "id": "B24",
+          "nummer": "B24",
+          "sida": 44,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vem utser den elsäkerhetsledaren?"
+        },
+        {
+          "id": "B25",
+          "nummer": "B25",
+          "sida": 44,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilken uppgift har elsäkerhetsledaren?"
+        },
+        {
+          "id": "B26",
+          "nummer": "B26",
+          "sida": 44,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Skall elsäkerhetsledaren utses skriftligt eller räcker det att prata med personen ifråga?"
+        },
+        {
+          "id": "B27",
+          "nummer": "B27",
+          "sida": 44,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Kan en elmontör utses som elsäkerhetsledare?"
+        },
+        {
+          "id": "B28",
+          "nummer": "B28",
+          "sida": 44,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Måste elsäkerhetsledaren vara tillgänglig på arbetsplatsen?"
+        },
+        {
+          "id": "B29",
+          "nummer": "B29",
+          "sida": 45,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad är skillnaden mellan ”fortlöpande tillsyn” och ”periodisk tillsyn”?"
+        },
+        {
+          "id": "B30",
+          "nummer": "B30",
+          "sida": 45,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad skall man speciellt beakta vid fortlöpande tillsyn?"
+        },
+        {
+          "id": "B31",
+          "nummer": "B31",
+          "sida": 45,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vissa anläggningar skall kontrolleras enligt fastställda tidsintervaller, t.ex. anläggningar som utsätts för extra stora påfrestningar. Ge tre exempel på sådana anläggningar?"
+        },
+        {
+          "id": "B32",
+          "nummer": "B32",
+          "sida": 45,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vem ansvarar för att tillsyn respektive internkontroll utförs på elanläggningar?"
+        },
+        {
+          "id": "B33",
+          "nummer": "B33",
+          "sida": 45,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad bör man beakta när man bestämmer tidsintervallet på anläggningar ovan?"
+        },
+        {
+          "id": "B34",
+          "nummer": "B34",
+          "sida": 46,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Måste en periodisk tillsyn dokumenteras?"
+        },
+        {
+          "id": "B35",
+          "nummer": "B35",
+          "sida": 46,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur skall fel och brister som upptäcks vid en besiktning åtgärdas?"
+        },
+        {
+          "id": "B36",
+          "nummer": "B36",
+          "sida": 46,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Om du som elektriker utför ett arbete på en anläggning tex lantbruk. Du ser ett elektrisk fel / fara på den befintliga anläggningen. Vad skall du då göra?"
+        },
+        {
+          "id": "B37",
+          "nummer": "B37",
+          "sida": 46,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Normala skötselåtgärder anses ej vara elektriskt arbete i föreskriftens bemärkelse om de utförs på ett säkert sätt dvs så att fara ej uppstår. Vilka arbetsmoment ingår i normala skötselåtgärder?"
+        },
+        {
+          "id": "B38",
+          "nummer": "B38",
+          "sida": 46,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur säkerställer man att en anläggning är och förblir UTAN spänning ( 6 steg ) innan arbetet påbörjas? Specificera hur du utför respektive steg."
+        },
+        {
+          "id": "B39",
+          "nummer": "B39",
+          "sida": 47,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur måste en därgbrytare = normsäkring vara märkt för att få användas som frånskiljare?"
+        },
+        {
+          "id": "B40",
+          "nummer": "B40",
+          "sida": 47,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "När, hur och av vem ges tillstånd att påbörja ett arbete?"
+        },
+        {
+          "id": "B41",
+          "nummer": "B41",
+          "sida": 47,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Finns det något fall / anläggning där arbete MED spänning inte får förekomma?"
+        },
+        {
+          "id": "B42",
+          "nummer": "B42",
+          "sida": 47,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vad skall elsäkerhetsledaren försäkra sig om innan arbetet MED spänning startar?"
+        },
+        {
+          "id": "B43",
+          "nummer": "B43",
+          "sida": 48,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Måste det finnas en elsäkerhetsledare inblandad när jag utför normala skötselåtgärder?"
+        },
+        {
+          "id": "B44",
+          "nummer": "B44",
+          "sida": 48,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka tre arbetsmetoder används vid arbete MED spänning?"
+        },
+        {
+          "id": "B45",
+          "nummer": "B45",
+          "sida": 48,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Får en ensam person utföra ett arbete MED spänning?"
+        },
+        {
+          "id": "B46",
+          "nummer": "B46",
+          "sida": 48,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Hur är verktyg märkta som är avsedda för arbete med spänning?"
+        },
+        {
+          "id": "B47",
+          "nummer": "B47",
+          "sida": 48,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka krav ställer standarden på en person som skall utföra ett arbete med spänning?"
+        },
+        {
+          "id": "B48",
+          "nummer": "B48",
+          "sida": 48,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Se bilaga A: Ange om arbetet är att betrakta som MED, NÄRA eller UTAN spänning? Systemspänning är 10KV, avstånd till spänningsförande del är 0,3m? Systemspänning är 400V, avstånd till spänningsförande del är 0,5m? Systemspänning är 110KV, avstånd till spänningsförande del är 1m? Systemspänning är 380KV, avstånd till spänningsförande del är 2m?",
+          "anmarkning": "Bilaga A saknas i PDF:en."
+        },
+        {
+          "id": "B49",
+          "nummer": "B49",
+          "sida": 49,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilken person ger mig tillträde till ett driftrum om jag t.ex. skall läsa av elmätarna?"
+        },
+        {
+          "id": "B50",
+          "nummer": "B50",
+          "sida": 49,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka krav ställs på en person som skall läsa av elmätare i ett driftrum? 51 Är avlägsnande av en centralkåpa för besiktning, mätning eller funktionskontroll att betrakta som arbete med spänning?"
+        },
+        {
+          "id": "B51",
+          "nummer": "B51",
+          "sida": 50,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Är utbyte av passdel ”bottenkontakt” att betrakta som arbete med spänning?"
+        },
+        {
+          "id": "B52",
+          "nummer": "B52",
+          "sida": 50,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Kräver föreskrifterna att man utser en elsäkerhetsledare vid normalt underhållsarbete?"
+        },
+        {
+          "id": "B53",
+          "nummer": "B53",
+          "sida": 50,
+          "kraver_bild": false,
+          "bilder": [],
+          "text": "Vilka kompetenskrav gäller för personer som arbetar med underhållsarbete på en elanläggning?"
+        }
+      ]
+    }
+  ]
+}
